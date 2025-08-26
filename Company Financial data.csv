@@ -1,0 +1,101 @@
+Order ID,Order Date,Delivery Date,Status,Restaurant Category,City,Order Value,Delivery Partner,Delivery Rating,Delivery Time (Minutes)
+FD0001,4/20/24 9:47,4/20/24 10:00,Cancelled,Chinese,Kolkata,354.26,Partner C,0,12
+FD0002,06-01-2024 22:39,06-02-2024 00:17,Delivered,Cloud Kitchen,Mumbai,1496.87,Partner B,5,98
+FD0003,6/16/24 17:33,6/16/24 17:54,Delivered,Fast Food,Hyderabad,247.27,Partner A,3,21
+FD0004,4/18/24 14:33,4/18/24 16:21,Delivered,Italian,Bangalore,484.27,Partner D,4,108
+FD0005,04-04-2024 20:13,04-04-2024 21:22,Delivered,Italian,Pune,605.5,Partner C,4,69
+FD0006,1/15/24 22:07,1/16/24 0:54,Delivered,Chinese,Mumbai,745.12,Partner C,4,167
+FD0007,2/19/24 13:01,2/19/24 13:12,Cancelled,Indian,Mumbai,1101.33,Partner A,0,15
+FD0008,6/20/24 18:30,6/20/24 18:50,Delivered,Bakery,Chennai,1411.21,Partner A,4,20
+FD0009,05-05-2024 19:45,05-05-2024 22:36,Delivered,Chinese,Bangalore,693.09,Partner B,3,171
+FD0010,03-06-2024 22:22,03-06-2024 22:56,Delivered,Fast Food,Bangalore,609.22,Partner A,5,34
+FD0011,1/15/24 16:22,1/15/24 19:04,Delivered,Indian,Mumbai,184.27,Partner B,4,162
+FD0012,1/15/24 21:42,1/15/24 22:33,Delivered,Italian,Bangalore,427.47,Partner D,3,51
+FD0013,02-05-2024 13:39,02-05-2024 16:24,Delivered,Cloud Kitchen,Mumbai,546.99,Partner D,5,165
+FD0014,04-08-2024 19:50,04-08-2024 20:05,Returned,Italian,Hyderabad,634.9,Partner B,0,10
+FD0015,05-07-2024 17:24,05-07-2024 19:41,Delivered,Bakery,Delhi,486.84,Partner B,5,137
+FD0016,3/17/24 13:21,3/17/24 15:25,Delivered,Cloud Kitchen,Hyderabad,900.96,Partner C,4,124
+FD0017,06-01-2024 22:53,06-02-2024 00:55,Delivered,Indian,Bangalore,681.08,Partner C,3,122
+FD0018,3/24/24 20:24,3/24/24 22:42,Delivered,Indian,Mumbai,1464.29,Partner B,3,138
+FD0019,04-04-2024 20:38,04-04-2024 21:19,Delivered,Italian,Chennai,284,Partner C,4,41
+FD0020,3/18/24 10:01,3/18/24 12:23,Delivered,Fast Food,Kolkata,1487.79,Partner B,4,142
+FD0021,2/18/24 18:52,2/18/24 20:57,Delivered,Indian,Bangalore,281.97,Partner A,3,125
+FD0022,2/25/24 15:24,2/25/24 16:55,Delivered,Italian,Delhi,1300.08,Partner A,5,91
+FD0023,5/13/24 17:50,5/13/24 18:05,Returned,Indian,Kolkata,557.96,Partner B,0,14
+FD0024,5/18/24 11:05,5/18/24 11:53,Delivered,Fast Food,Hyderabad,1051.83,Partner A,3,48
+FD0025,4/28/24 22:09,4/29/24 0:36,Delivered,Italian,Pune,637.93,Partner A,4,147
+FD0026,2/20/24 13:09,2/20/24 14:55,Delivered,Cloud Kitchen,Bangalore,547.36,Partner B,5,106
+FD0027,1/27/24 17:13,1/27/24 17:59,Delivered,Bakery,Mumbai,1243.46,Partner A,3,46
+FD0028,4/25/24 21:41,4/25/24 22:53,Delivered,Chinese,Hyderabad,946.54,Partner C,4,72
+FD0029,5/25/24 17:56,5/25/24 19:22,Delivered,Indian,Hyderabad,225.74,Partner C,4,86
+FD0030,02-12-2024 11:45,02-12-2024 12:38,Delivered,Cloud Kitchen,Bangalore,945.67,Partner D,3,53
+FD0031,3/26/24 11:27,3/26/24 13:05,Delivered,Chinese,Chennai,962.22,Partner B,5,98
+FD0032,3/22/24 19:19,3/22/24 19:29,Cancelled,Bakery,Pune,1060.42,Partner C,0,10
+FD0033,4/27/24 18:11,4/27/24 20:16,Delivered,Italian,Kolkata,674.41,Partner A,3,125
+FD0034,03-12-2024 12:47,03-12-2024 13:02,Delayed,Cloud Kitchen,Mumbai,1264.71,Partner C,0,10
+FD0035,03-01-2024 09:13,03-01-2024 10:00,Delivered,Indian,Delhi,1438.02,Partner B,3,47
+FD0036,03-01-2024 13:39,03-01-2024 13:54,Delayed,Italian,Delhi,707.7,Partner D,0,12
+FD0037,4/13/24 21:50,4/13/24 22:05,Returned,Cloud Kitchen,Delhi,680.72,Partner D,0,11
+FD0038,3/16/24 16:57,3/16/24 18:10,Delivered,Fast Food,Kolkata,1164.84,Partner D,4,73
+FD0039,05-03-2024 20:52,05-03-2024 21:40,Delivered,Chinese,Mumbai,923.82,Partner D,5,48
+FD0040,05-02-2024 10:14,05-02-2024 11:14,Delivered,Bakery,Chennai,1444.87,Partner A,4,60
+FD0041,5/26/24 20:37,5/26/24 21:51,Delivered,Bakery,Kolkata,784.08,Partner A,3,74
+FD0042,05-12-2024 18:16,05-12-2024 19:40,Delivered,Chinese,Mumbai,478.31,Partner C,3,84
+FD0043,3/16/24 23:56,3/17/24 1:33,Delivered,Bakery,Pune,808.28,Partner C,4,97
+FD0044,5/31/24 13:45,5/31/24 16:01,Delivered,Chinese,Kolkata,388.27,Partner C,3,136
+FD0045,6/20/24 14:14,6/20/24 14:34,Delivered,Indian,Pune,1484.16,Partner C,5,20
+FD0046,3/19/24 16:46,3/19/24 18:55,Delivered,Cloud Kitchen,Mumbai,855.03,Partner B,4,129
+FD0047,1/20/24 13:41,1/20/24 15:31,Delivered,Indian,Bangalore,300.29,Partner B,4,110
+FD0048,6/29/24 17:00,6/29/24 19:20,Delivered,Indian,Delhi,1411.01,Partner B,4,140
+FD0049,1/20/24 21:38,1/20/24 22:51,Delivered,Cloud Kitchen,Kolkata,847.76,Partner D,5,73
+FD0050,4/22/24 17:15,4/22/24 19:35,Delivered,Indian,Delhi,744.92,Partner C,3,140
+FD0051,5/14/24 15:28,5/14/24 18:24,Delivered,Bakery,Delhi,406.56,Partner C,5,176
+FD0052,1/22/24 13:14,1/22/24 14:03,Delivered,Cloud Kitchen,Kolkata,861.82,Partner C,5,49
+FD0053,02-05-2024 22:58,02-06-2024 01:03,Delivered,Indian,Kolkata,858.8,Partner C,3,125
+FD0054,1/29/24 15:59,1/29/24 16:13,Delayed,Italian,Hyderabad,1450.13,Partner C,0,14
+FD0055,5/16/24 11:03,5/16/24 11:37,Delivered,Cloud Kitchen,Kolkata,613.49,Partner A,3,34
+FD0056,02-03-2024 18:42,02-03-2024 21:02,Delivered,Indian,Bangalore,1447.22,Partner C,3,140
+FD0057,5/23/24 22:19,5/23/24 22:41,Delivered,Bakery,Bangalore,1154.88,Partner A,4,22
+FD0058,06-05-2024 16:21,06-05-2024 19:02,Delivered,Cloud Kitchen,Hyderabad,615.4,Partner D,4,161
+FD0059,02-04-2024 11:45,02-04-2024 12:19,Delivered,Bakery,Bangalore,1151.12,Partner B,5,34
+FD0060,6/20/24 14:17,6/20/24 16:35,Delivered,Fast Food,Kolkata,726.45,Partner D,5,138
+FD0061,02-08-2024 15:32,02-08-2024 17:34,Delivered,Italian,Mumbai,720.71,Partner B,5,122
+FD0062,3/17/24 22:57,3/18/24 1:55,Delivered,Fast Food,Kolkata,528.26,Partner A,5,178
+FD0063,01-01-2024 15:05,01-01-2024 15:20,Cancelled,Cloud Kitchen,Mumbai,498.04,Partner D,0,12
+FD0064,2/16/24 12:24,2/16/24 13:04,Delivered,Cloud Kitchen,Mumbai,303.05,Partner A,5,40
+FD0065,05-08-2024 14:42,05-08-2024 15:59,Delivered,Cloud Kitchen,Chennai,179.17,Partner A,4,77
+FD0066,02-04-2024 16:44,02-04-2024 16:54,Returned,Cloud Kitchen,Pune,351.97,Partner D,0,10
+FD0067,5/31/24 18:29,5/31/24 19:12,Delivered,Bakery,Hyderabad,925.17,Partner C,5,43
+FD0068,06-01-2024 16:44,06-01-2024 19:44,Delivered,Cloud Kitchen,Delhi,924.5,Partner D,3,180
+FD0069,3/21/24 10:35,3/21/24 11:46,Delivered,Indian,Pune,904,Partner B,3,71
+FD0070,2/21/24 20:20,2/21/24 23:18,Delivered,Indian,Delhi,528.77,Partner A,3,178
+FD0071,1/15/24 18:31,1/15/24 19:36,Delivered,Cloud Kitchen,Pune,1384.67,Partner C,4,65
+FD0072,3/17/24 12:44,3/17/24 14:23,Delivered,Italian,Delhi,256.69,Partner A,4,99
+FD0073,01-07-2024 17:11,01-07-2024 17:25,Delayed,Fast Food,Pune,823.26,Partner B,0,14
+FD0074,6/18/24 20:08,6/18/24 20:49,Delivered,Indian,Delhi,464.66,Partner B,3,41
+FD0075,5/14/24 10:52,5/14/24 11:02,Cancelled,Fast Food,Chennai,463.13,Partner A,0,12
+FD0076,2/24/24 18:45,2/24/24 18:57,Cancelled,Bakery,Delhi,1271.44,Partner D,0,14
+FD0077,02-12-2024 22:48,02-12-2024 22:59,Delayed,Fast Food,Kolkata,1296.99,Partner B,0,13
+FD0078,5/13/24 14:38,5/13/24 16:05,Delivered,Bakery,Hyderabad,823.11,Partner D,4,87
+FD0079,01-06-2024 15:14,01-06-2024 15:51,Delivered,Italian,Mumbai,283.61,Partner A,5,37
+FD0080,4/16/24 11:41,4/16/24 13:46,Delivered,Cloud Kitchen,Pune,1406.26,Partner B,5,125
+FD0081,2/23/24 12:53,2/23/24 13:07,Delayed,Bakery,Kolkata,1401.09,Partner C,0,12
+FD0082,04-05-2024 10:26,04-05-2024 12:29,Delivered,Bakery,Kolkata,640.12,Partner C,5,123
+FD0083,03-11-2024 19:30,03-11-2024 19:45,Cancelled,Indian,Chennai,1445.39,Partner D,0,10
+FD0084,4/28/24 23:34,4/29/24 1:25,Delivered,Fast Food,Pune,1345.52,Partner A,3,111
+FD0085,04-01-2024 21:51,04-01-2024 23:04,Delivered,Cloud Kitchen,Mumbai,942.37,Partner B,4,73
+FD0086,06-04-2024 21:10,06-04-2024 21:20,Delayed,Indian,Hyderabad,290.2,Partner B,0,13
+FD0087,03-03-2024 21:57,03-03-2024 22:27,Delivered,Fast Food,Hyderabad,459.32,Partner A,3,30
+FD0088,3/22/24 23:43,3/23/24 1:08,Delivered,Fast Food,Pune,1359.04,Partner C,4,85
+FD0089,6/22/24 14:15,6/22/24 14:26,Cancelled,Indian,Kolkata,1043.77,Partner B,0,10
+FD0090,4/22/24 22:04,4/23/24 0:57,Delivered,Italian,Delhi,1108.45,Partner C,3,173
+FD0091,02-08-2024 21:52,02-08-2024 22:06,Returned,Chinese,Pune,266.43,Partner D,0,15
+FD0092,2/26/24 10:30,2/26/24 11:32,Delivered,Indian,Hyderabad,332.44,Partner A,5,62
+FD0093,01-04-2024 15:30,01-04-2024 17:33,Delivered,Cloud Kitchen,Pune,268.27,Partner C,5,123
+FD0094,05-03-2024 18:13,05-03-2024 19:48,Delivered,Cloud Kitchen,Hyderabad,1015.69,Partner C,4,95
+FD0095,02-03-2024 11:41,02-03-2024 12:43,Delivered,Chinese,Delhi,1001.66,Partner B,3,62
+FD0096,05-09-2024 22:48,05-09-2024 22:58,Cancelled,Cloud Kitchen,Chennai,259.08,Partner A,0,13
+FD0097,6/16/24 16:17,6/16/24 16:31,Cancelled,Indian,Mumbai,1244.37,Partner C,0,12
+FD0098,06-09-2024 17:17,06-09-2024 19:42,Delivered,Chinese,Pune,867.1,Partner B,3,145
+FD0099,2/18/24 22:51,2/18/24 23:01,Returned,Indian,Kolkata,816.21,Partner B,0,15
+FD0100,03-05-2024 19:32,03-05-2024 20:11,Delivered,Indian,Bangalore,1375.42,Partner A,5,39
